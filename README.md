@@ -7,7 +7,7 @@ Python SDK for the Invaro AI API, providing easy access to document parsing serv
 1. Clone the repository:
 
 ```bash
-[git clone https://github.com/yourusername/invaro-sdk.git](https://github.com/Harshit-65/invaro_sdk.git)
+https://github.com/Harshit-65/invaro_sdk.git
 cd invaro-sdk
 ```
 
